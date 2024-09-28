@@ -1,0 +1,66 @@
+*
+{
+    margin: 0;
+    border:border-box;
+    color:white;
+}
+.navbar
+{
+    height:60px;
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content:space-evenly;
+}
+.nav-logo
+{
+    heigth:50px;
+    width:100px;
+}
+.logo
+{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.w1hXPy2K6o7KzApXh_YePgHaEc&pid=Api&P=0&h=180");
+    background-size:cover;
+    height:60px;
+    width:100%;
+}
+.hi
+{
+    font-size: 15px;
+    font-weight: lighter;
+    color:#cccccc;
+}
+.hii
+{
+    font-size: 20px;
+}
+.nav_se
+{
+    display: flex;
+    margin-top: 10px;
+
+}
+.nav{
+    border: 1.2px solid white;
+    border-radius:10%;
+    height:30px;
+    width:40px;
+    border-right: none;
+    font-size: larger;
+    text-align: center;
+    padding-top: 10px;
+   
+   
+    
+}
+.nav_n
+{
+    border: 2px solid white;
+    height: 38px;
+    color:black;
+
+}
+.nav_k
+{
+    margin-top: 10px;;
+}
